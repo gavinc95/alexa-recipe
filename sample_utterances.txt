@@ -1,0 +1,22 @@
+welcome_intent main menu
+
+options_intent what can I say
+
+food_choices_intent find {food_choice}
+food_choices_intent I'd like to make {food_choice}
+
+read_ingredients_intent what are the ingredients
+read_ingredients_intent ingredients
+
+exit_intent Quit
+exit_intent Exit
+
+start_ingredients_intent start
+start_ingredients_intent read ingredients
+
+next_ingredient_intent next step
+
+last_ingredient_intent last step
+
+restart_ingredient_intent start again 
+

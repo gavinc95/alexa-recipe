@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "options_intent"
+    },
+    {
+      "intent": "food_choices_intent",
+      "slots": [
+        {
+          "name": "food_choice",
+          "type": "LIST_OF_RECIPES"
+        }
+      ]
+    },
+    {
+      "intent": "read_ingredients_intent"
+    },
+    {
+      "intent": "start_directions_intent"
+    },
+    {
+      "intent": "start_ingredients_intent"
+    },
+    {
+      "intent": "next_ingredient_intent"
+    },
+    {
+      "intent": "next_step_intent"
+    },
+    {
+      "intent": "last_step_intent"
+    },
+    {
+      "intent": "last_ingredient_intent"
+    },
+    {
+      "intent": "restart_intent"
+    },
+    {
+      "intent": "exit_intent"
+    },
+    {
+      "intent": "welcome_intent"
+    }
+  ]
+}
