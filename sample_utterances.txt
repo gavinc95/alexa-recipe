@@ -1,22 +1,51 @@
 welcome_intent main menu
+welcome_intent go to main menu
+welcome_intent go back to recipe menu
 
 options_intent what can I say
+options_intent wot n tarnation
+options_intent wot n tarnation are my options
+options_intent son how do i use this technology thing
+options_intent how does this thing work
+options_intent work gosh darn it
 
 food_choices_intent find {food_choice}
 food_choices_intent I'd like to make {food_choice}
-
-read_ingredients_intent what are the ingredients
-read_ingredients_intent ingredients
+food_choices_intent find recipe for {food_choice}
+food_choices_intent I'm hungering for {food_choice}
+food_choices_intent I'm craving {food_choice}
 
 exit_intent Quit
 exit_intent Exit
+exit_intent I give up
+exit_intent I'm done
 
-start_ingredients_intent start
+start_ingredients_intent ingredients
 start_ingredients_intent read ingredients
+start_ingredients_intent what are the ingredients
+start_ingredients_intent what must I procure to craft this masterpiece
 
-next_ingredient_intent next step
 
-last_ingredient_intent last step
+start_directions_intent start
+start_directions_intent start recipe
+start_directions_intent read recipe
+start_directions_intent let's bake
 
-restart_ingredient_intent start again 
+next_ingredient_intent next ingredient
+
+last_ingredient_intent last ingredient
+last_ingredient_intent previous ingredient
+last_ingredient_intent what was that last ingredient again
+
+next_step_intent next step
+
+last_step_intent last step
+last_step_intent previous step
+last_step_intent my baby was crying. what did you say for that direction
+last_step_intent what was that last step again
+
+restart_intent start again
+restart_intent restart
+restart_intent i dun goofed. can we start over
+
 
