@@ -1,0 +1,84 @@
+
+Scenario 1: Young savvy hippie-tech-yuppie uses our cooking assistant instead of ordering Uber Eats
+
+Response: Recipe Assistant, what recipe would you like to make?
+
+Utterance: I'd like to make a Classic Cocktail.
+Response: Recipe found. Say ingredients when you are ready to begin the recipe.
+
+Utterance: Ingredients.
+Response: We will start by staying the ingredients. Say next ingredient to proceed or last ingredient to go back. You will need vodka.
+
+Utterance: Next ingredient.
+Response: Ice.
+
+Utterance: Next ingredient.
+Response: Rocks. These are all the required ingredients. We will proceed with the directions. Say read recipe to proceed.
+
+Utterance: Read recipe.
+Response: We will now read the directions. Say next step to go forward or last step to go backwards. Say start again to start over. The first step is to pour vodka into glass.
+
+Utterance: Next step.
+Response: Add some ice.
+
+Utterance: Next step.
+Response: Add some rocks. 
+
+Utterance: Next step.
+Response: You have finished the recipe! Enjoy your meal.
+
+Utternace: Quit.
+Response: Goodbye. Have a good life.
+
+------------------------------------------------------------------------------------------
+Scenario 2: Midwestern grandmother who uses whiteout on her laptop instead of backspacing is gifted an Amazon Alexa for Christmas with our app preinstalled
+
+Response: Recipe Assistant, what recipe would you like to make?
+
+Utterance: What can I say?
+Response: You can say: quit or exit. You can also say: find recipe name where recipe name is the name of your recipe, I'd like to make recipe name, where recipe name is the name of your recipe.
+
+Utterance: Wot 'n tarnation?
+Response: You can say: quit or exit. You can also say: find recipe name where recipe name is the name of your recipe, I'd like to make recipe name, where recipe name is the name of your recipe.
+
+Utterance: I'm hungering for cheese and crackers.
+Response: Recipe found. Say ingredients when you are ready to begin the recipe.
+
+Utterance: Wot must I procure to craft dis masterpiece?
+Response: We will start by staying the ingredients. Say next ingredient to proceed or last ingredient to go back. You will need cheese.
+
+Utterance: Next ingredient.
+Response: Crackers. These are all the required ingredients. We will proceed with the directions. Say read recipe to proceed.
+
+Utterance: Last ingredient.
+Response: Cheese.
+
+Utterance: Last ingredient.
+Response: Cheese.
+
+Utterance: Next ingredient.
+Response: Crackers. These are all the required ingredients. We will proceed with the directions. Say read recipe to proceed.
+
+Utterance: What was that last ingredient again?
+Response: You will need cheese.
+
+Utterance: Next ingredient.
+Response: Crackers. These are all the required ingredients. We will proceed with the directions. Say read recipe to proceed.
+
+Utterance: Let's bake.
+Response: We will now read the directions. Say next step to go forward or last step to go backwards. Say start again to start over. The first step is to open the cracker box.
+
+Utterance: My baby was crying. What did you say for that direction?
+Response: Open the cracker box.
+
+Utterance: I dun goofed. can we start over?
+Response: The first step is to open the cracker box.
+
+Utterance: Next step.
+Response: Spread cheese on crackers. You have finished the recipe! Enjoy your meal.
+
+Utterance: I'm done.
+Response: Goodbye. Have a good life.
+
+
+

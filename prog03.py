@@ -75,7 +75,7 @@ def handle_session_end_request():
 def get_welcome_response():
     session_attributes = {}
     card_title = "Recipe Assisstant"
-    speech_output = "recipe assisstant, what recipe would you like to make?"
+    speech_output = "recipe assistant, what recipe would you like to make?"
 
     reprompt_text = "Please ask me for recipe assistance."
     should_end_session = False
